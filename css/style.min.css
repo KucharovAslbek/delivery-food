@@ -257,7 +257,7 @@ body {
 }
 
 .input-restaurants {
-  width: 90%;
+  width: 304px;
   background-image: url(../img/icons/search.svg);
   background-position: left 10px center;
   padding-top: 8px;
@@ -627,5 +627,8 @@ body {
 
   .section-title {
     margin-bottom: 25px;
+  }
+  .input-restaurants{
+    margin-left: 0px;
   }
 }
