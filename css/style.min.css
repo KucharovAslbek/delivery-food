@@ -257,7 +257,7 @@ body {
 }
 
 .input-restaurants {
-  width: 305px;
+  width: 90%;
   background-image: url(../img/icons/search.svg);
   background-position: left 10px center;
   padding-top: 8px;
